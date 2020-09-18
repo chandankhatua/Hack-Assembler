@@ -1,7 +1,7 @@
-Overall logic
+##Overall logic
 - Initialization
--* Of Parser
-q Of Symbol Table
+  - Of Parser
+  - Of Symbol Table
 • First Pass: Read all commands, only paying attention to labels and
 updating the symbol table
 • Restart reading and translating commands
