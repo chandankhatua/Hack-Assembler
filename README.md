@@ -11,7 +11,7 @@ Additional a compare file is also given in the data/compare folder for each prog
 Examples:
 To translate Add.asm, use this command-line argument from the root folder: Assembler.py Add.asm
 # Output
-Parsed File\n
+Parsed File
 {
 ....value.....
 }
