@@ -9,8 +9,8 @@ Hack Assembler reads an assembly program - such as Add.asm - located in data/inp
 Additional a compare file is also given in the data/compare folder for each program(like Add_cmpr.hack).
 
 Examples:
-To translate Add.asm, use this command-line argument from the root folder:_
-prompt> Assembler.py Add.asm
+To translate Add.asm, use this command-line argument from the root folder:\
+prompt> Assembler.py Add.asm\
 
 # Output
 Parsed File
