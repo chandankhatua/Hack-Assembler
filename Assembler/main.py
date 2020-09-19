@@ -1,16 +1,15 @@
 from SymbolTable import SymTable
 from Parser import Parser
-from code import Code
+from code_ import Code
 import os
 
-os.chdir("C:\\Users\\lenovo\\Desktop\\New folder\\Tests\\add")
 variable_addr = 16
 addr=0
 
 #   initialising the symbol table
 s = SymTable()
 #   Initialising the Parser
-p = Parser("Add.asm")
+p = Parser("C:\\Users\\lenovo\\Desktop\\New folder\\data\\input_output\\Add.asm")
 #   Storing the parsed file
 pars_file = p.rf()
 
